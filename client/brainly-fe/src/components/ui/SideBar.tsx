@@ -23,7 +23,6 @@ export function SideBar() {
 
         const data = (response.data as any)?.content;
 
-        const filteredContent = data.filter((x: any) => x.type === "youtube")
         console.log((response.data as any)?.content)
     }
 
