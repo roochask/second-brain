@@ -18,10 +18,5 @@ yarn-debug.log*
 yarn-error.log*
 pnpm-debug.log*
 
-# IDE/editor
-.vscode/
-.idea/
-.DS_Store
-*.swp
 
 notes
